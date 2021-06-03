@@ -1,7 +1,7 @@
-var myImages =["https://www.imms.org/images/dolphin_presentation/dolphin1.jpg", "http://cdn3.theeventchronicle.com/wp-content/uploads/2014/09/dolphin-intelligence.jpg","http://www.liveanimalslist.com/mammals/images/dolphin-in-water.jpg","http://i1151.photobucket.com/albums/o632/bowietvc15/Bowietvc15-2/DolphinsWallpaper2.jpg","http://i1151.photobucket.com/albums/o632/bowietvc15/funny%20gifs/animal-art-cute-dolphin-nature-Favimcom-311780.jpg"];
+var myImages =["Chocolate_Cake.jpg", "Creme_Brulee.jpg","Grilled_Cheese.jpg","Scoops-kinds-ice-cream.jpg","chocolate-chip-cookie.jpg"];
 
 
-var captionImages =["Laugh","Love","Lunch","Happiness","Family"];
+var captionImages =["Cake","Creme Brulee","Grilled Cheese","Ice Cream","Cookie"];
 
  var index=0; 
 
