@@ -29,6 +29,14 @@ function back(){
  updateImage();
 } 
 
+function autoSlide(){
+if (document.getElementById("auto").checked)
+ next(); 
+}
+
+
+setInterval(autoSlide,2000); // Next
+
 var nextButton = document.getElementById("next"); 
 var previousButton = document.getElementById("previous"); 
 
